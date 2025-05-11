@@ -31,6 +31,12 @@ const ShowPosts=()=> {
         time:"2h",
         text: `loremVideo provides a powerful way to help you prove your point. When you click Online,/
      keyword to search online for the video`,postImg: `./img/r4.PNG`},
+     {id:.5,
+        userImg: `./img/r5.PNG`,
+        name:"Rizwan Khan",
+        time:"2h",
+        text: `loremVideo provides a powerful way to help you prove your point. When you click Online,/
+     keyword to search online for the video`,postImg: `./img/r5.PNG`},
   ])
   return (
     <div className='look'>

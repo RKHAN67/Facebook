@@ -24,18 +24,26 @@ const ChatBox =(props) => {
     </div>
     <div className='chat__body'>
     <div className='chat__left'>
-        <p className='msg'>loremVideo provid</p>
+        <p className='msg'>Hi bro</p>
     </div>
     <div className='chat__right'>
-        <p className='msg'>loremVideo </p>
-    </div>
+        <p className='msg'>Hi How are you </p>
     </div>
     <div className='chat__left'>
-        <p className='msg'>loremVideo provid</p>
+        <p className='msg'>I'm fine?</p>
+        <p className='msg'>what about you</p>
     </div>
     <div className='chat__right'>
-        <p className='msg'>loremVideo </p>
+        <p className='msg'>I'm good ! can I help ypu</p>
     </div>
+    <div className='chat__left'>
+        <p className='msg'>No Thank yoy</p>
+    </div>
+    <div className='chat__right'>
+        <p className='msg'>thank</p>
+    </div>
+    </div>
+    
     <div className='chat__footer'>
         <input type='text'className='chat__input' placeholder='Aa'></input>
     </div>
